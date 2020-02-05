@@ -1,1 +1,4 @@
-*.java linguist-detectable=false
+*.java linguist-language=cordova
+*.h linguist-detectable=false
+*.bat linguist-detectable=false
+*.cs linguist-detectable=false
