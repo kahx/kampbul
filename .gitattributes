@@ -1,4 +1,4 @@
 *.java linguist-language=cordova
-*.h linguist-detectable=false
+*.h linguist-language=android
 *.bat linguist-detectable=false
 *.cs linguist-detectable=false
